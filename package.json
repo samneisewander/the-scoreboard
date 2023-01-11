@@ -1,0 +1,22 @@
+{
+  "name": "the-scoreboard",
+  "version": "1.0.0",
+  "description": "A \"Ready Player One\" inspired Scoreboard and game management app for ARG scavenger hunt games.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samneisewander/the-scoreboard.git"
+  },
+  "author": "Sam Neisewander",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/samneisewander/the-scoreboard/issues"
+  },
+  "homepage": "https://github.com/samneisewander/the-scoreboard#readme"
+}
